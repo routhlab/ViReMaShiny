@@ -5,7 +5,7 @@
 ViReMa is an algorithm developed by the Routh and Johnson Labs providing “a versatile platform for rapid, sensitive and nucleotide-resolution detection of recombination junctions in viral genomes using next-generation sequencing data”. Code for ViReMa is written in Python and can be downloaded here - https://bioconda.github.io/recipes/virema/README.html.
 
 ## Documentation for ViReMaShiny
-https://jayeung12.github.io/
+[Tutorial and Vignettes](https://jayeung12.github.io/)
 
 ## Relevant Papers
 The original ViReMa paper:
