@@ -6,6 +6,7 @@ ViReMa is an algorithm developed by the Routh and Johnson Labs providing “a ve
 
 ## Documentation for ViReMaShiny
 [Tutorial and Vignettes](https://jayeung12.github.io/)
+[Preprint]()
 
 ## Relevant Papers
 The original ViReMa paper:
